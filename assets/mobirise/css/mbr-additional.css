@@ -949,3 +949,106 @@ body {
 .cid-qYHYs0zDPG .mbr-section-title SPAN {
   color: #e64b5d;
 }
+.cid-qZaVomGBR9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qZaVomGBR9 .card-title {
+  letter-spacing: 0.03em;
+  color: #232323;
+  margin: 0;
+  padding: 0;
+}
+.cid-qZaVomGBR9 .card {
+  margin-bottom: 2rem;
+}
+.cid-qZaVomGBR9 .card-box {
+  word-break: break-word;
+  padding-top: 2rem;
+}
+.cid-qZaVomGBR9 .card-box p {
+  color: #444;
+  letter-spacing: 0.03em;
+  margin: 0;
+  padding-bottom: 1.5rem;
+}
+.cid-qZaVomGBR9 .btn {
+  margin: .3rem;
+}
+.cid-qZaVomGBR9 .mbr-section-title {
+  margin: 0;
+}
+.cid-qZaVomGBR9 .card-underline,
+.cid-qZaVomGBR9 .underline {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+.cid-qZaVomGBR9 .card-underline .line,
+.cid-qZaVomGBR9 .underline .line {
+  width: 3rem;
+  height: 2px;
+  background: #444444;
+  display: inline-block;
+}
+.cid-qZaVomGBR9 .card-underline {
+  margin-bottom: 1.5rem;
+  margin-top: 0 !important;
+}
+.cid-qZaVomGBR9 .card-underline .line {
+  background: #e64b5d;
+}
+@media (max-width: 767px) {
+  .cid-qZaVomGBR9 .row.blog-block {
+    padding: 0 1rem;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-qZaVomGBR9 .row-content {
+    min-width: 100%;
+  }
+  .cid-qZaVomGBR9 .card {
+    display: block;
+  }
+}
+.cid-qZb7Z14bN9 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-qZb7Z14bN9 .row {
+  margin-left: -5rem;
+}
+.cid-qZb7Z14bN9 .slider-text-two {
+  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  display: inline-block;
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  outline-offset: -15px;
+  padding: 65px 50px;
+  position: relative;
+}
+.cid-qZb7Z14bN9 .mbr-section-title,
+.cid-qZb7Z14bN9 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qZb7Z14bN9 .mbr-section-subtitle span {
+  font-weight: bold;
+}
+.cid-qZb7Z14bN9 .mbr-text {
+  color: #232323;
+  font-weight: 100;
+}
+.cid-qZb7Z14bN9 .mbr-section-btn {
+  color: white;
+}
+@media (max-width: 767px) {
+  .cid-qZb7Z14bN9 .row {
+    margin-left: -15px;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-qZb7Z14bN9 .slider-text-two {
+    outline: 15px solid rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+}
